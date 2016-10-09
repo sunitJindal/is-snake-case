@@ -1,0 +1,28 @@
+{
+  "name": "is-snake-case",
+  "version": "0.0.1",
+  "description": "Check is a string follows snake case notation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunitJindal/is-snake-case.git"
+  },
+  "keywords": [
+    "snakecase",
+    "case",
+    "check",
+    "validate"
+  ],
+  "author": "Sunit Jindal",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/sunitJindal/is-snake-case/issues"
+  },
+  "homepage": "https://github.com/sunitJindal/is-snake-case#readme"
+}
