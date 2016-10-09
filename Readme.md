@@ -29,11 +29,11 @@ isSnakeCase('Foo_bar')       //=> false
 
 MIT
 
-[npm-image]: https://img.shields.io/npm/v/snake-case.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/is-snake-case.svg?style=flat
 [npm-url]: https://npmjs.org/package/is-snake-case
-[downloads-image]: https://img.shields.io/npm/dm/snake-case.svg?style=flat
+[downloads-image]: https://img.shields.io/npm/dm/is-snake-case.svg?style=flat
 [downloads-url]: https://npmjs.org/package/is-snake-case
-[travis-image]: https://img.shields.io/travis/blakeembrey/snake-case.svg?style=flat
+[travis-image]: https://img.shields.io/travis/sunitJindal/is-snake-case.svg?style=flat
 [travis-url]: https://travis-ci.org/sunitJindal/is-snake-case
-[coveralls-image]: https://img.shields.io/coveralls/blakeembrey/snake-case.svg?style=flat
+[coveralls-image]: https://img.shields.io/coveralls/sunitJindal/is-snake-case.svg?style=flat
 [coveralls-url]: https://coveralls.io/github/sunitJindal/is-snake-case?branch=master
